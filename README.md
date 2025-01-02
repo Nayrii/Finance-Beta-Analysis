@@ -1,4 +1,4 @@
-# Analyse Beta Financière
+# Finance Beta Analysis
 
 ## Contexte
 Ce projet vise à analyser les données financières des principales entreprises du NASDAQ 100. Il inclut la collecte, le traitement et l'analyse des données historiques pour extraire des indicateurs clés tels que la beta, les rendements, et les corrélations entre actifs.
@@ -29,7 +29,7 @@ Ce projet vise à analyser les données financières des principales entreprises
 
 ```plaintext
 Finance_Beta_Analysis/
-├── data/ # Dossiers contenant les données extraites et nettoyées.
-├── notebook/ # Notebooks Jupyter pour l'analyse exploratoire et quantitative.
+├── data/ # Dossier contenant les données extraites et nettoyées.
+├── notebook/ # Notebook Jupyter pour l'analyse exploratoire et quantitative.
 │   └── Finance_Beta_Analysis_Notebook.ipynb # Notebook principal.
 ├── README.md # Documentation du projet (vous y êtes).
